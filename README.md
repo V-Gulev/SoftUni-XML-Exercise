@@ -1,1 +1,1 @@
-XML Exercise
+SoftUni XML Exercise
